@@ -1,1 +1,1 @@
-# multimodal-hate-speech-indonesia
+# indonesian-multimodal-hate-speech-dataset
