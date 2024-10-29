@@ -13,7 +13,7 @@ Crawling began from March to May 2024. During the search process, advanced searc
 
 ## Keywords
 
-Check the `Keywords` folder to see the keywords used in Twitter searches and how to search using those keywords.
+Check `Keywords` folder to see the keywords used in Twitter searches and how to search using those keywords.
 
 ## Filtering
 
