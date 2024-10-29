@@ -1,6 +1,6 @@
 # Indonesian-Multimodal-Hate-Speech-Dataset
 
-Multimodal hate speech dataset consisting of images and texts in Indonesian from Twitter.
+Multimodal hate speech dataset consisting of images and texts in Indonesian from Twitter (X).
 
 ## Twitter Crawling
 
