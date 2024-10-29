@@ -36,7 +36,7 @@ The dataset then undergoes automatic and manual filtering processes, resulting i
 ## Modeling
 
 Experiments using this dataset were conducted with two modeling methods, including:
-1. **Early Fusion**: This method combines text and image features at the input level for integrated analysis.
-2. **Late Fusion**: An ensemble classifier using Soft Voting to combine separate text and image model predictions.
+1. **Early Fusion**: Combines text and image features at the input level.
+2. **Late Fusion**: Ensemble classifier using Soft Voting to combine separate text and image model predictions.
 
 The code to perform these experiments can be accessed in this repository.
