@@ -28,7 +28,7 @@ In addition to automatic filtering, manual filtering was also conducted by revie
 
 The results of crawling for each keyword are saved in separate files. After all keywords have been searched, all these files are merged into a single dataset file. Each entry will have one text data and one image data. If a tweet contains more than one image, a single tweet text corresponds to multiple entries with different image data. As a result, a total of 5,937 entries were obtained.
 
-The dataset then undergoes automatic and manual filtering processes, resulting in 5,062 entries that are ready for annotation. After annotation is complete, the annotators also identify some tweets that still need to be removed based on the same criteria as during manual filtering. The final dataset consists of 5,019 entries. The details of the dataset are as follows:
+The dataset then undergoes automatic and manual filtering processes, resulting in 5,062 entries that are ready for annotation (check `Guidelines` folder to see the complete steps for annotators to annotate this dataset). After annotation is complete, the annotators also identify some tweets that still need to be removed based on the same criteria as during manual filtering. The final dataset consists of 5,019 entries. The details of the dataset are as follows:
 
 ![Annotation Total](annotation.jpg)
 ![Target Total](target.jpg)
